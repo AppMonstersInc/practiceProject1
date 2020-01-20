@@ -10,5 +10,6 @@ public class FirstClass {
         WebDriver driver  = new ChromeDriver();
         System.out.println("change");
         System.out.println("changed from github UI");
+        driver.get("http://google.com");
     }
 }
