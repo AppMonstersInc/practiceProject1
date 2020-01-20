@@ -8,5 +8,6 @@ public class FirstClass {
     public static void main(String[] args) {
         WebDriverManager.chromedriver().setup();
         WebDriver driver  = new ChromeDriver();
+        System.out.println("change");
     }
 }
