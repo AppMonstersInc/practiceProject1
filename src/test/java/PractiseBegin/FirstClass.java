@@ -11,6 +11,10 @@ public class FirstClass {
         System.out.println("change");
         System.out.println("practice stash");
         System.out.println("changes");
+
         //some changes
+
+        System.out.println("abc");
+
     }
 }
