@@ -9,7 +9,6 @@ public class FirstClass {
         WebDriverManager.chromedriver().setup();
         WebDriver driver  = new ChromeDriver();
         System.out.println("change");
-        System.out.println("changed from github UI");
-        driver.get("http://google.com");
+        System.out.println("practice stash");
     }
 }
